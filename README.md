@@ -1,4 +1,5 @@
-- Hello, My name is Jacob Neeley (@jacneeley).
+# Hello
+### My name is Jacob Neeley (@jacneeley).
 - I am currently working on starting my career in tech as a software developer, but more specifically, I am currently invested in my journey in figuring out what areas of software developement I truly enjoy.
 
 - I started my journey in the classroom learning C#. Since my first programming class I have, picked up a little SQL, HTML, CSS, a little bit of Javascript, and python (i enjoy it a lot more than C# haha). The next language on my roadmap is Java. 
