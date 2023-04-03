@@ -8,7 +8,7 @@ I am currently working on starting my career in tech as a software developer, bu
 - SQL
 - HTML
 
-### Languages I am trying to learn:
+### Languages I am learning:
 - JS frameworks (react,angular) 
 - CSS
 - Java (Android App Development) 
