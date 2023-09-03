@@ -7,13 +7,13 @@ I am currently working on starting my career in tech as a software developer, bu
 ### Basic Understanding:
 - JS frameworks (react,angular) 
 - CSS
-- Java (Android App Development) 
 
 ### Intermediate Understanding:
 - Python
 - C#
 - SQL
 - HTML
+- Java
 
 ### Contact 
 via email jacneeley@outlook.com
