@@ -19,4 +19,4 @@ I am currently working on starting my career in tech as a software developer, bu
 - HTML
 
 ### Contact 
-via email JakNeeleyy@outlook.com
+via email JakNeeley@outlook.com
