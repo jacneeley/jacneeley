@@ -5,15 +5,18 @@ I am currently working on starting my career in tech as a software developer, bu
 ## Languages:
 
 ### Basic Understanding:
-- JS frameworks (react,angular) 
+- JS frameworks (react) 
 - CSS
-
-### Intermediate Understanding:
-- Python
-- C#
 - SQL
-- HTML
+
+### Almost Fluent:
+- Vanilla JS
 - Java
 
+### Fluent:
+- Python
+- C#
+- HTML
+
 ### Contact 
-via email jacneeley@outlook.com
+via email JakNeeleyy@outlook.com
