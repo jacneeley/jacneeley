@@ -4,7 +4,7 @@ Aspiring softdev working on starting my career in tech. I am commited to my jour
 
 I use Ubuntu. idgaf if you think I am a noob. 
 
-## Languages:
+### Languages:
 - python
 - C#
 - java 
@@ -13,7 +13,7 @@ I use Ubuntu. idgaf if you think I am a noob.
 - css
 - SQL
 
-## frameworks
+### frameworks
 - react (learning)
 - flask
 - .net
@@ -21,14 +21,14 @@ I use Ubuntu. idgaf if you think I am a noob.
 - pandas
 - matplotlib
 
-## Tools
+### Tools
 - Toad (Oracle SQL Server)
 - Git
 - Firebase
 - VSCode
 - Eclipse
 
-# Concepts
+## Concepts
 - OOP
 - App Development
 - RESTapi
