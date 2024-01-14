@@ -13,7 +13,7 @@ I use Ubuntu. idgaf if you think I am a noob.
 - css
 - SQL
 
-### frameworks
+### Frameworks
 - react (learning)
 - flask
 - .net
