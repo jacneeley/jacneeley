@@ -1,4 +1,4 @@
-# ʒak (@jacneeley).
+# ʒak (@jacneeley)
 Aspiring softdev working on starting my career in tech. I am commited to my journey and I am constantly learning as I attempt to figure out what it is I really want to do in tech.
 
 I use Ubuntu. idgaf if you think I am a noob. 
