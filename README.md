@@ -54,7 +54,7 @@ The best of my public projects (debatable).
 
 ## Full Stack Web Apps
 - [KTSW Recommends - VanillaJS and Flask](https://ktsw-recommends-8qqa.onrender.com/)
-- [3akphotos - photography page - Flask](https://3akphotos.xyz)
+- [3akphotos - photography page - Astro + React](https://3akphotos.xyz)
 
 ### Contact 
 via email JakNeeley@outlook.com
