@@ -53,8 +53,8 @@ The best of my public projects (debatable).
 - [Fullstack Texas Breweries DB App](https://github.com/jacneeley/TexasBreweriesAPI_Prototype)
 
 ## Full Stack Web Apps
-- [KTSW Recommends - React + Flask](https://ktsw-recommends-8qqa.onrender.com/)
-- [3akphotos - photography page - Astro + React](https://3akphotos.xyz)
+- [KTSW Recommends](https://ktsw-recommends-8qqa.onrender.com/) - React + Flask
+- [3akphotos - photography page](https://3akphotos.xyz) - Astro + React
 
 ### Contact 
 via email JakNeeley@outlook.com
