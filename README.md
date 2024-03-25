@@ -45,8 +45,8 @@ The best of my public projects (debatable).
 - [Customer Trust in AI](https://github.com/jacneeley/Customer_Trust_AI)
 
 ## Java
-- [RESTful-video game eStore Android App](https://github.com/jacneeley/REST-videogamelistapp#code)
-- [Quick Servlet "Create User" Form](https://github.com/jacneeley/handleForms#code)
+- [RESTful-video game eStore Android App](https://github.com/jacneeley/REST-videogamelistapp#code) - Android SDK
+- [Quick Servlet "Create User" Form](https://github.com/jacneeley/handleForms#code) - Servlet + Tomcat
 
 ## C#
 - [Simple Payroll-Windows Form App](https://github.com/jacneeley/simple-payroll-wfa)
