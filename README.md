@@ -53,7 +53,7 @@ The best of my public projects (debatable).
 - [Fullstack Texas Breweries DB App](https://github.com/jacneeley/TexasBreweriesAPI_Prototype)
 
 ## Full Stack Web Apps
-- [Shuffle - Recommend A Random Album](https://github.com/jacneeley/album-recommendation) - React + Flask
+- [Shuffle - Recommend A Random Album](https://shuffle-usls.onrender.com/) - React + Flask
 - [KTSW Recommends](https://ktsw-recommends-8qqa.onrender.com/) - VanillaJS + Flask
 - [3akphotos - photography page](https://3akphotos.xyz) - Astro + React
 
