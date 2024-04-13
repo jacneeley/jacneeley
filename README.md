@@ -13,6 +13,7 @@ I use Ubuntu.
 - SQL
 
 ### Frameworks
+- [Astro](https://astro.build/) (I really like this one)
 - react (learning)
 - flask
 - .net
