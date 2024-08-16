@@ -12,7 +12,10 @@ I use Debian. My [website](https://jakscoolsite.onrender.com/).
 - [Customer Trust in AI](https://github.com/jacneeley/Customer_Trust_AI)
 
 ## Java
-- [RESTful-video game eStore Android App](https://github.com/jacneeley/REST-videogamelistapp#code) - Android SDK
+- POKeDEX Classic (coming soon) - springboot + thymeleaf
+
+## C/C++
+- [Minimal Server](https://github.com/jacneeley/minimal_server_C)
 
 ## Full Stack Web Apps
 - [Shuffle - Recommend A Random Album](https://shuffle-usls.onrender.com/) - React + Flask
